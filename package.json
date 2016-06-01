@@ -1,0 +1,18 @@
+{
+  "name": "restson",
+  "version": "1.0.0",
+  "description": "super simple JSON basic REST",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "keywords": ["rest", "json"],
+  "author": {
+      "name": "Jan Sanchez",
+      "email": "joejansanchez@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.8.14"
+  }
+}
