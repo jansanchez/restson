@@ -91,6 +91,8 @@ curl http://localhost:3000/pais/2
 }
 ```
 
+----------
+
 ### PUT
 
 ```
@@ -104,6 +106,8 @@ curl -H 'Content-Type: application/json' -X PUT -d '{"nombre": "Bolivia"}' http:
 }
 ```
 
+----------
+
 ### POST
 
 ```
@@ -116,6 +120,8 @@ curl -H 'Content-Type: application/json' -X POST -d '{"nombre": "Paraguay"}' htt
   "id": 6
 }
 ```
+
+----------
 
 ### DELETE
 
