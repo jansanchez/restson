@@ -1,0 +1,24 @@
+{
+  "pais": [
+    {
+      "nombre": "Argentina",
+      "id": 1
+    },
+    {
+      "nombre": "Bolivix",
+      "id": 2
+    },
+    {
+      "nombre": "Colombia",
+      "id": 3
+    },
+    {
+      "nombre": "Ecuador",
+      "id": 4
+    },
+    {
+      "nombre": "Perú",
+      "id": 5
+    }
+  ]
+}

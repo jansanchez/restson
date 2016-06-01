@@ -4,7 +4,7 @@
   "description": "super simple JSON basic REST",
   "main": "index.js",
   "scripts": {
-    "server": "json-server --watch db.json"
+    "server": "json-server --watch ./db/demo.json"
   },
   "keywords": ["rest", "json"],
   "author": {
